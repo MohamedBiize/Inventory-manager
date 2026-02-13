@@ -311,7 +311,7 @@ Pour toute question sur l'architecture ou le code, consultez :
 
 ---
 
-**Auteur :** Manus AI  
+**Auteur :** Mohamed biize, Said Abdelli, Kamil Ghannam  
 **Date :** Février 2026  
 **Statut :** ✅ Complet et prêt pour production  
 **Version :** 1.0.0
