@@ -1,6 +1,12 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
 import { importExportService } from "./importExportService";
 
+describe("importExportService", () => {
+  describe("parseProductsCSV", () => {
+    it("should parse valid CSV content", () => {
+      const csv = `name,sku,description,categoryId,quantity,unitPrice,minStockLevel
+Product A,SKU001,Description A,1,100,10.50,20
+Product B,SKU002,Description B,2,50,20.00,10`;
 
       const result = importExportService.parseProductsCSV(csv);
 
