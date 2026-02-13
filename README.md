@@ -278,20 +278,6 @@ pnpm test
 **Testing :**
 - vitest 2.1
 
-## 🎓 Pour le Professeur
-
-Ce projet démontre :
-
-✅ **Architecture en couches** - Séparation claire des responsabilités
-✅ **Authentification sécurisée** - OAuth + JWT
-✅ **Permissions granulaires** - Contrôle d'accès basé sur les rôles
-✅ **Base de données relationnelle** - 9 tables bien normalisées
-✅ **Notifications temps réel** - WebSocket avec Socket.io
-✅ **Tests complets** - 62 tests unitaires
-✅ **TypeScript strict** - Type safety end-to-end
-✅ **Documentation** - README.md par dossier + rapport PDF
-
-**Voir [RAPPORT_PROJET.pdf](./RAPPORT_PROJET.pdf) pour le rapport complet.**
 
 ## 🚀 Prochaines Étapes Possibles
 
